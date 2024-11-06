@@ -1,0 +1,9 @@
+📧 Building an Email Spam Detector with Machine Learning: Oasis Project 📧
+
+Excited to be working on a new project with Oasis—developing an email spam detector! We’ve all encountered spam emails filled with cryptic messages, scams, and phishing attempts, and this project uses Python and machine learning to build a model that can classify emails as either spam or non-spam.
+
+Through this project, I’ll be exploring NLP techniques to process email content and then training a model to accurately detect spam. It’s a practical project that showcases the power of machine learning in enhancing email security and protecting users from potential threats.
+
+Can’t wait to share my progress and insights on creating an effective spam detection model!
+
+#OasisProject #MachineLearning #SpamDetection #DataScience #Python #NLP #EmailSecurity
